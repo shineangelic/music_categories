@@ -15,9 +15,12 @@ Classical: Art Music
 Classical: Ballet
 Classical: Baroque
 Classical: Baroque Era
+Classical: Classical
+Classical: Modern Classical
 Electronic: 2-step garage
 Electronic: 4-beat
 Electronic: Abstract
+Electronic: Acid
 Electronic: Acid breaks
 Electronic: Acid house
 Electronic: Acid jazz
@@ -29,6 +32,7 @@ Electronic: Afro trap
 Electronic: Afro/cosmic music
 Electronic: Afrobeats
 Electronic: Afroswing
+Electronic: Alternative Pop
 Electronic: Alternative dance
 Electronic: Amapiano
 Electronic: Ambient
@@ -66,6 +70,8 @@ Electronic: Changa tuki
 Electronic: Chicago hard house
 Electronic: Chicago house
 Electronic: Chill-out
+Electronic: Chillout
+Electronic: Chillwave
 Electronic: Chillwave
 Electronic: Chiptune
 Electronic: Chopped and screwed
@@ -76,13 +82,13 @@ Electronic: Coupé-décalé
 Electronic: Crunk
 Electronic: Crunkcore
 Electronic: Cyber metal
-Electronic: Dance-pop
-Electronic: Dance-punk
-Electronic: Dance-rock
+Electronic: Dance
+Electronic: Dance Pop
+Electronic: Dance Punk
 Electronic: Dancehall pop
 Electronic: Danger music
-Electronic: Dark Ambient
-Electronic: Dark ambient
+Electronic: Dark Post-Punk
+Electronic: Dark clubbing
 Electronic: Dark electro
 Electronic: Darkcore
 Electronic: Darkstep
@@ -115,6 +121,7 @@ Electronic: Electro house
 Electronic: Electro swing
 Electronic: Electro-disco
 Electronic: Electro-industrial
+Electronic: Electro/Ambient
 Electronic: Electroacoustic improvisation
 Electronic: Electroacoustic music
 Electronic: Electroclash
@@ -124,12 +131,15 @@ Electronic: Electronica
 Electronic: Electronicore
 Electronic: Electropop
 Electronic: Emo rap
+Electronic: Ethereal
 Electronic: Ethereal wave
+Electronic: Etherpop
 Electronic: Ethnic electronica / regional EDM
 Electronic: Eurodisco
 Electronic: Eurotrance
 Electronic: Extratone
 Electronic: Fidget house
+Electronic: Finnish Electronic
 Electronic: Flashcore
 Electronic: Florida breaks
 Electronic: Folktronica
@@ -146,16 +156,19 @@ Electronic: Future bass
 Electronic: Future funk
 Electronic: Future garage
 Electronic: Future house
+Electronic: Future rock
 Electronic: Gabber
 Electronic: Garage house
 Electronic: Ghetto house
 Electronic: Ghettotech
 Electronic: Glitch
+Electronic: Goa
 Electronic: Goa trance
 Electronic: Gqom
 Electronic: Grime
 Electronic: Grindie
 Electronic: Happy hardcore
+Electronic: Hard House
 Electronic: Hard NRG
 Electronic: Hard trance
 Electronic: Hardbag
@@ -183,6 +196,7 @@ Electronic: Indietronica
 Electronic: Instrumental hip hop
 Electronic: Intelligent dance music (IDM)
 Electronic: Intelligent drum and bass
+Electronic: Italian New wave
 Electronic: Italo house
 Electronic: J-core
 Electronic: Japanoise
@@ -224,6 +238,7 @@ Electronic: Microhouse
 Electronic: Minimal
 Electronic: Minimal techno
 Electronic: Minimal wave
+Electronic: Modular Synth
 Electronic: Moombahcore
 Electronic: Moombahsoul
 Electronic: Moombahton
@@ -245,6 +260,7 @@ Electronic: New-age
 Electronic: Nightcore
 Electronic: Nintendocore
 Electronic: Nitzhonot
+Electronic: Noise
 Electronic: Noise music
 Electronic: Noise pop
 Electronic: Nortec
@@ -276,6 +292,7 @@ Electronic: Rara tech
 Electronic: Rasteirinha
 Electronic: Reductionism
 Electronic: Reggaestep
+Electronic: Retro Electro
 Electronic: Riddim
 Electronic: Russ music
 Electronic: Sambass
@@ -300,6 +317,7 @@ Electronic: Suomisaundi
 Electronic: Synth-funk
 Electronic: Synth-metal
 Electronic: Synth-punk
+Electronic: Neo-Synthpop
 Electronic: Synthpop
 Electronic: Synthwave
 Electronic: Synthwave / Chipwave
@@ -308,7 +326,9 @@ Electronic: Synthwave / Darksynth
 Electronic: Synthwave / Dreamwave
 Electronic: Synthwave / Outrun
 Electronic: Synthwave / Retrowave
+Electronic: Synthwave / Shredwave
 Electronic: Synthwave / Spacewave
+Electronic: Synthwave / Sytnthpop
 Electronic: Synthwave / Vocal Synthwave
 Electronic: Tech house
 Electronic: Tech trance
@@ -316,6 +336,7 @@ Electronic: Techno
 Electronic: Techstep
 Electronic: Tecno brega
 Electronic: Toytown techno
+Electronic: Trance
 Electronic: Trance music
 Electronic: Trap
 Electronic: Trap (EDM)
@@ -344,9 +365,13 @@ Industrial: Ambient industrial
 Industrial: Avant-Garde
 Industrial: Avant-Garde Music
 Industrial: Avantgarde
+Industrial: Dark Ambient
 Industrial: Death industrial
+Industrial: Drone Ambient
+Industrial: EBM
 Industrial: Electronic body music (EBM)
 Industrial: Futurepop
+Industrial: Gothic/Ambient
 Industrial: Industrial
 Industrial: Industrial / post-industrial
 Industrial: Industrial hardcore
@@ -356,9 +381,14 @@ Industrial: Industrial rock
 Industrial: Industrial techno
 Industrial: Krautrock
 Industrial: Martial industrial
+Industrial: Neofolk
+Industrial: Tribal industrial
 Jazz: Afro-Cuban Jazz
 Jazz: Asian American Jazz
 Jazz: Avant-Garde Jazz
+Jazz: Contemporary Jazz
+Jazz: Jazz
+Jazz: Modern Jazz Piano
 Latin: Afro-Cuban
 Latin: Axé
 Latin: Bachata
@@ -380,7 +410,7 @@ Metal: Deathcore
 Metal: Deathgrind
 Metal: Depressive suicidal black metal
 Metal: Djent
-Metal: Doom metal
+Metal: Doom Metal
 Metal: Drone metal
 Metal: Folk metal
 Metal: Funk metal
@@ -402,6 +432,7 @@ Metal: Neue Deutsche Härte
 Metal: Nu metal
 Metal: Pagan metal
 Metal: Pirate metal
+Metal: Post metal
 Metal: Post-metal
 Metal: Power metal
 Metal: Progressive metal
@@ -414,8 +445,12 @@ Metal: Technical death metal
 Metal: Thrash metal
 Metal: Unblack metal
 Metal: Viking metal
+Other: 00S
+Other: 90S
+Other: 80S
 Other: A Capella
 Other: A Cappella
+Other: Acoustic
 Other: Acoustic Music
 Other: Anime
 Other: Arabesque
@@ -424,6 +459,12 @@ Other: Background Music
 Other: Ballad
 Other: Ballroom
 Other: Barbershop
+Other: British Soundtrack
+Other: Hidden Track
+Other: Experimental
+Other: Instrumental
+Other: Percussive
+Other: Soundtrack
 Pop: Adult album alternative
 Pop: Adult contemporary
 Pop: Ambient pop
@@ -445,6 +486,7 @@ Pop: Chamber pop
 Pop: Chanson
 Pop: Christian pop
 Pop: City pop
+Pop: Classic Italian Pop
 Pop: Classical crossover
 Pop: Country pop
 Pop: Cringe pop
@@ -461,6 +503,7 @@ Pop: Indian pop
 Pop: Indie pop
 Pop: Iranian pop
 Pop: Italo dance
+Pop: Italian Pop
 Pop: Italo disco
 Pop: J-pop
 Pop: Jangle pop
@@ -516,7 +559,7 @@ Punk: Crust punk
 Punk: Crust punk
 Punk: Crustgrind
 Punk: D-beat
-Punk: Digital hardcore
+Punk: Digital Hardcore
 Punk: Easycore
 Punk: Electrogrind
 Punk: Electropunk
@@ -525,11 +568,13 @@ Punk: Garage punk
 Punk: German punk
 Punk: Glam punk
 Punk: Goregrind
+Punk: Gothic Post punk
 Punk: Gothic punk
 Punk: Grindcore
 Punk: Gypsy punk
 Punk: Hardcore punk
 Punk: Horror punk
+Punk: Italian punk
 Punk: Latino punk
 Punk: Melodic hardcore
 Punk: Nazi punk
@@ -542,6 +587,7 @@ Punk: Powerviolence
 Punk: Proto-punk
 Punk: Psychobilly
 Punk: Punk
+Punk: Punk Cabaret
 Punk: Punk blues
 Punk: Punk jazz
 Punk: Punk pathetique
@@ -564,14 +610,20 @@ Rock: Acid rock
 Rock: Afro rock
 Rock: Album Rock
 Rock: Alternative
+Rock: Alternative And Punk
+Rock: Alternative Hard Rock
 Rock: Alternative Pop/Rock
-Rock: Alternative rock
+Rock: Alternative Rock
+Rock: Alternative Rock/Experimental
+Rock: Ambient/Space Rock
+Rock: American Shoegaze
 Rock: American rock
 Rock: Anatolian rock
 Rock: Arabic rock
 Rock: Arena rock
 Rock: Art rock
 Rock: Art rock
+Rock: Atmospheric Post Rock
 Rock: Avant-prog
 Rock: Beat
 Rock: Blackgaze
@@ -579,6 +631,7 @@ Rock: Blues rock
 Rock: Boogie rock
 Rock: Brazilian rock
 Rock: Britannique
+Rock: British
 Rock: British Invasion
 Rock: British folk rock
 Rock: British rhythm and blues
@@ -592,12 +645,15 @@ Rock: Classic rock
 Rock: Cold wave
 Rock: Coldwave
 Rock: Comedy rock
+Rock: Compositional Ambient
 Rock: Country rock
+Rock: Cosmic Post Rock
 Rock: Dance Rock
+Rock: Dark Wave
 Rock: Dark cabaret
-Rock: Dark wave
 Rock: Darkwave
 Rock: Death 'n' roll
+Rock: Death Rock
 Rock: Deathrock
 Rock: Desert rock
 Rock: Dream pop
@@ -620,21 +676,26 @@ Rock: Hard rock
 Rock: Heartland rock
 Rock: Hellbilly
 Rock: Indian rock
+Rock: Indie
 Rock: Indie rock
+Rock: Instrumental Post Rock
 Rock: Instrumental rock
 Rock: Iranian rock
+Rock: Italian Alternative
 Rock: Italian Indie Pop
+Rock: Italian Post Punk
 Rock: Japanese rock
 Rock: Jazz fusion
 Rock: Jazz rock
 Rock: Korean rock
 Rock: Latin rock
+Rock: Leftfield
 Rock: Math rock
 Rock: Medieval folk rock
 Rock: Midwest emo
 Rock: Mod (subculture)
-Rock: Modern progressive rock
-Rock: Modern rock
+Rock: Modern Progressive Rock
+Rock: Modern Rock
 Rock: Nagoya kei
 Rock: Nederbeat
 Rock: Neo-progressive rock
@@ -644,6 +705,7 @@ Rock: No wave
 Rock: Noise rock
 Rock: Pagan rock
 Rock: Paisley Underground
+Rock: Piano Rock
 Rock: Post Britpop
 Rock: Post Grunge
 Rock: Post Rock
@@ -671,6 +733,7 @@ Rock: Sadcore
 Rock: Samba rock
 Rock: Shoegaze
 Rock: Slacker rock
+Rock: Slow Core
 Rock: Slowcore
 Rock: Soul rock
 Rock: Southern rock
@@ -679,6 +742,7 @@ Rock: Stoner rock
 Rock: Sufi rock
 Rock: Surf rock
 Rock: Swamp rock
+Rock: Swedish Prog
 Rock: Symphonic Rock
 Rock: Tropical rock
 Rock: Viking rock
